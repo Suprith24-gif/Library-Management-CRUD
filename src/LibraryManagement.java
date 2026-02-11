@@ -7,9 +7,9 @@ public class LibraryManagement {
         int option;
         do {
             System.out.println("MENU------>");
-            System.out.println("1 -> Add a book");
-            System.out.println("2 -> view available books");
-            System.out.println("3 -> exit");
+            System.out.println("1 -> Add a book // rohan");
+            System.out.println("2 -> view available books // rohan");
+            System.out.println("3 -> exit // rohan");
 
             System.out.print("Enter your choice : ");
             option = sc.nextInt();
